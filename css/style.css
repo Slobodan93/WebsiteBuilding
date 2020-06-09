@@ -1,0 +1,55 @@
+/************************heding***********************/
+
+header a {
+    color: black;
+}
+
+header a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+header a:visited {
+    color: black;
+}
+
+#icon-menu {
+    widows: 32px;
+}
+
+/************************hero section***********************/
+#hero {
+    background-image: url(../imgs/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+
+}
+
+
+#naslov {
+    background-color: rgb(49, 161, 96);
+    display: inline-block;
+
+}
+
+
+/************************menu section***********************/
+#staete-section {
+    background-color: #202020;
+}
+
+/************************main section***********************/
+#main-section {
+    background-color: #202020;
+}
+
+#tabela {
+    background-color: #202020;
+}
+
+/************************footer section***********************/
+#footer-section {
+    background-color: black;
+
+}
